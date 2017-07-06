@@ -1,0 +1,12 @@
+if TARGET_MX6SABRESD_CTM
+
+config SYS_BOARD
+	default "mx6sabresd_ctm"
+
+config SYS_VENDOR
+	default "teo"
+
+config SYS_CONFIG_NAME
+	default "mx6sabresd_ctm"
+
+endif
